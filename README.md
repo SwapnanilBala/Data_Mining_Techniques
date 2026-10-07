@@ -11,10 +11,9 @@ Findings live next to the code that produced them, so results are reproducible r
 | Field | Detail |
 |---|---|
 | **Name** | Swapnanil Bala |
-| **NUID** | `002031137` |
 | **Class** | Data Mining (`CS 6220`) |
 | **University** | Northeastern University — Khoury College of Computer Sciences |
-| **Professor** | `Mirek Riedewald` |
+| **Professor** | Mirek Riedewald |
 | **Term** | Fall 2026 |
 | **Program** | M.S. Data Science |
 
@@ -22,12 +21,11 @@ Findings live next to the code that produced them, so results are reproducible r
 
 ## Structure
 
-```
-assignments/    # Graded work, one folder per assignment
-notebooks/      # Exploration, EDA, scratch analysis
-data/           # Datasets (or pointers to them)
-findings/       # Write-ups: what the analysis actually showed
-```
+| Folder | What's in it |
+|---|---|
+| [`Home_Work_1/`](Home_Work_1) | Iris: four classifiers (k-NN, decision tree, Gaussian NB, logistic regression) compared on accuracy and train/test time |
+
+One folder per assignment, added as the semester goes.
 
 ---
 
